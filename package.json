@@ -1,0 +1,17 @@
+{
+  "name": "my-email-project",
+  "version": "1.0.0",
+  "description": "Node.js project to send emails using Nodemailer",
+  "main": "src/App.js",
+  "scripts": {
+    "start": "node src/App.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "hello",
+  "license": "ISC",
+  "dependencies": {
+    "nodemailer": "^6.9.14",
+    "dotenv": "^16.0.3"
+  }
+}
